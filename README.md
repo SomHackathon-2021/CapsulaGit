@@ -6,3 +6,7 @@ Per fer la càpsula de Git
 * Descarregar i instal·lar el Git https://git-scm.com/downloads
 
 Faig els primers canvis
+
+Soc el Josep i faig canvis locals
+
+
