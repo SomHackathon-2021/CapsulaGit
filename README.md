@@ -10,3 +10,4 @@ Faig els primers canvis
 Soc el Josep i faig canvis locals
 
 
+Faig canvis sense que ho sàpiga el Josep !!! jeje
